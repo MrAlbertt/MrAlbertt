@@ -11,7 +11,7 @@
   - **Java**
 
 ### 🌟 Featured Project
-- [The Minesweeper](https://github.com/MrAlbertt/minesweeper)  
+- [The Minesweeper](https://github.com/MrAlbertt/Minesweeper-core.git)  
   My first professional repository, and the one I'm most proud of!  
   *Feel free to check it out and let me know your thoughts.*
 
