@@ -28,8 +28,9 @@
 - Native Spanish speaker
 
 ### 📫 Contact
-- Gmail: [Juanalbertovi.16@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=Juanalbertovi.16@gmail.com)
-- Instagram: [@Jlbertt.vx](https://instagram.com/Jlbertt.vx) *(not programming-related yet)*
+- **Gmail:** [Juanalbertovi.16@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=Juanalbertovi.16@gmail.com&su=Hi%20Juan,%20I%20want%20to%20talk%20with%20you!&body=I%20came%20from%20GitHub.)
+
+- **Instagram:** [@Jlbertt.vx](https://instagram.com/Jlbertt.vx) *(not programming-related yet)*
 
 ---
 
