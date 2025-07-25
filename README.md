@@ -1,21 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm MrAlbertt!
 
-I´m Juan, a programming student passioante about building web applications.
-Currently, I'm learning **HTML, CSS (TaildwindCSS), JavaScript**, and exploring **Next.js** to improve my frontend development skills.
+### 🚀 About Me
+- Currently studying **ADSO** (Software Analysis and Development).
+- Passionate about tech, constantly learning something new every day!
+- I have hands-on experience with:
+  - **HTML**
+  - **CSS**
+  - **Tailwind**
+  - **Next.js**
+  - **Java**
 
-Always excited to learn and create!
+### 🌟 Featured Project
+- [The Minesweeper](https://github.com/MrAlbertt/minesweeper)  
+  My first professional repository, and the one I'm most proud of!  
+  *Feel free to check it out and let me know your thoughts.*
 
-<!--
-**MrAlbertt/MrAlbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Always Growing
+- I'm always exploring new technologies and improving my skills.
+- Open to collaboration and learning from the community.
 
-Here are some ideas to get you started:
+### 🏅 Certifications
+- Short courses in **UI Design** and **Making Graphic Interfaces in Java**
+- **Cybersecurity** basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗣️ Languages
+- English: A2/B1 level (always practicing!)
+- Native Spanish speaker
+
+### 📫 Contact
+- Gmail: [Juanalbertovi.16@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=Juanalbertovi.16@gmail.com)
+- Instagram: [@Jlbertt.vx](https://instagram.com/Jlbertt.vx) *(not programming-related yet)*
+
+---
+
+> *"The journey is just starting. Let's build, learn, and grow together!"*
