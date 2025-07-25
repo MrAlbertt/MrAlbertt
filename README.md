@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I´m Juan, a programming student passioante about building web applications.
+Currently, I'm learning **HTML, CSS (TaildwindCSS), JavaScript**, and exploring **Next.js** to improve my frontend development skills.
+
+Always excited to learn and create!
+
 <!--
 **MrAlbertt/MrAlbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
